@@ -1,0 +1,10 @@
+platform :ios, '13.0'
+
+target 'cocoaPodsDemo' do
+  use_frameworks!
+  
+  # Pods for cocoaPodsDemo
+  
+    pod 'CLTypingLabel'
+    
+end
