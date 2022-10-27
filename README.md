@@ -12,7 +12,7 @@ pod setup —verbose <br />
 step 3: <br />
 cd (folder project) <br />
 step 4: <br />
-pod init // it will add podfile <br/ >
+pod init // it will add podfile
 open podfile with xcode and make it default <br/ >
 add framework you want <br/ >
 close xcode app <br/ >
